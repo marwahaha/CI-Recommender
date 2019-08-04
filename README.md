@@ -44,7 +44,7 @@ TFIDF.queryTFIDF("Example",'10',True,100)
 ## Naming conventions
 Variables, functions and parameters are pascalCased (not like PEP underscored)  
 Classes are CamelCased  
-Modules are lowercased unless it is an abreviation (like TFIDF)  
+Modules are lowercased unless it is an abbreviation (like TFIDF)  
 Config globals are UPPERCASED  
 
 Our dataset files in "/datasets" are all subsets of "evolution" this is not mentioned in the filename.  
